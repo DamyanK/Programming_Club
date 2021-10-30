@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\bin\Debug\Week_13.exe.config
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\bin\Debug\Week_13.exe
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\bin\Debug\Week_13.pdb
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\obj\Debug\Week_13.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\obj\Debug\Week_13.Form1.resources
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\obj\Debug\Week_13.Properties.Resources.resources
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\obj\Debug\Week_13.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\obj\Debug\Week_13.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\obj\Debug\Week_13.exe
+C:\Users\user\Desktop\PGEE_CLUB_2020_2021\Week_13\Week_13\obj\Debug\Week_13.pdb
