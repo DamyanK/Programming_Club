@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\PGEE_CLUB_2021_2022\Week_11\Week_11\bin\Debug\Week_11.exe.config
+C:\Users\user\Desktop\PGEE_CLUB_2021_2022\Week_11\Week_11\bin\Debug\Week_11.exe
+C:\Users\user\Desktop\PGEE_CLUB_2021_2022\Week_11\Week_11\bin\Debug\Week_11.pdb
+C:\Users\user\Desktop\PGEE_CLUB_2021_2022\Week_11\Week_11\obj\Debug\Week_11.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PGEE_CLUB_2021_2022\Week_11\Week_11\obj\Debug\Week_11.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PGEE_CLUB_2021_2022\Week_11\Week_11\obj\Debug\Week_11.exe
+C:\Users\user\Desktop\PGEE_CLUB_2021_2022\Week_11\Week_11\obj\Debug\Week_11.pdb
